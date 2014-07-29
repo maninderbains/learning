@@ -1,4 +1,4 @@
 learning
 ========
 
-test
+echo "hello world"
